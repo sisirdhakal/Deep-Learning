@@ -33,6 +33,9 @@ This repository is organized by course, with each course having its dedicated fo
 - **Week 3:** Object detection
 - **Week 4:** Special applications: Face recognition & Neural style transfer
 
+### 5. Sequence Models
+
+- **Week 1:** Recurrent Neural Networks (RNN)
 
 ## Usage
 
