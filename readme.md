@@ -37,6 +37,7 @@ This repository is organized by course, with each course having its dedicated fo
 
 - **Week 1:** Recurrent Neural Networks (RNN)
 - **Week 2:** Natural Language Processing & Word Embeddings
+- **Week 3:** Sequence models & Attention mechanism
 
 ## Usage
 
